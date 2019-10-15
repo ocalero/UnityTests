@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: ed8532b26d6d249b59e0301f8f187d5b
+ScriptedImporter:
+  fileIDToRecycleName:
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  version: 19
+  mGraphInstanceData:
+  - graphLabel: DefaulTorus
+    prototypeName: DefaulTorus
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://DefaulTorus\" label=\"\" >\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: 
+    materialProperties:
+      shader: {instanceID: 0}
+      shaderKeywords: 
+      lightmapFlags: 0
+      texEnvs: []
+      floats: []
+      colors: []
+    texturePackingList:
+    - outputName: Output
+      alphaSource: Output
+    textureParameters:
+    - textureName: DefaulTorus - UNKNOWN
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    colorSpaceList:
+    - outputName: Output
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: 
+      bLockRatio: 1
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      bGenerateOnLoad: 1
+    material: {instanceID: 0}
+    generatedTextures: []

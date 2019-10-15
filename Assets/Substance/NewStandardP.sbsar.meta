@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 guid: e856ab93398614d318a18c7d9a9783bf
 ScriptedImporter:
-  internalIDToNameTable: []
+  fileIDToRecycleName:
+    2100000: NewStandard
+    2800000: NewStandard - diffuse
+    2800002: NewStandard - normal
+    11400000: sbsar
+    11400002: graph0
   externalObjects: {}
-  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -24,8 +28,7 @@ ScriptedImporter:
       lightmapFlags: 4
       texEnvs:
       - name: _BumpMap
-        texture: {fileID: -1650649664785647029, guid: e856ab93398614d318a18c7d9a9783bf,
-          type: 3}
+        texture: {fileID: 2800002, guid: e856ab93398614d318a18c7d9a9783bf, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _DetailAlbedoMap
@@ -45,8 +48,7 @@ ScriptedImporter:
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _MainTex
-        texture: {fileID: 45816980602227204, guid: e856ab93398614d318a18c7d9a9783bf,
-          type: 3}
+        texture: {fileID: 2800000, guid: e856ab93398614d318a18c7d9a9783bf, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _MetallicGlossMap
@@ -126,8 +128,7 @@ ScriptedImporter:
       textureHeight: 512
       textureFormat: 0
       bGenerateOnLoad: 1
-    material: {fileID: -1453059051314281165, guid: e856ab93398614d318a18c7d9a9783bf,
-      type: 3}
+    material: {fileID: 2100000, guid: e856ab93398614d318a18c7d9a9783bf, type: 3}
     generatedTextures:
-    - {fileID: 45816980602227204, guid: e856ab93398614d318a18c7d9a9783bf, type: 3}
-    - {fileID: -1650649664785647029, guid: e856ab93398614d318a18c7d9a9783bf, type: 3}
+    - {fileID: 2800000, guid: e856ab93398614d318a18c7d9a9783bf, type: 3}
+    - {fileID: 2800002, guid: e856ab93398614d318a18c7d9a9783bf, type: 3}
